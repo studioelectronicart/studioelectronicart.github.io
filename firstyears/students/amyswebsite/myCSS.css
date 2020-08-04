@@ -1,0 +1,49 @@
+/*All the basic elements on your page are here, with barely any
+  styling. Check out a CSS generator to add cool styles!*/
+
+body {
+  background-color: #FFFFFF; /*This means white! check out hexadecimal colours*/
+	color: cornflowerblue;
+}
+
+header {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+div {
+  /*this acts on *all* divs */
+  width: 500px;
+  margin: 0 auto; /*centres divs horizontally*/
+}
+
+h1 {
+  font-family: monospace;
+}
+
+p {
+  font-family: monospace;
+}
+
+img {
+
+}
+
+footer {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+#myFirstDiv {
+  /* use # to specify elements using their ID*/
+	border-radius: 25px;
+	background-color:antiquewhite;
+}
+
+#imageDiv {
+
+}
+
+#hyperlinkDiv {
+
+}
